@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Saya Nasheh Annafii, pemrogram dan pengembang situs web.
+Saya KSL Dragon, pemrogram dan pengembang situs web.

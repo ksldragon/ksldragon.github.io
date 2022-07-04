@@ -6,14 +6,15 @@ layout: default
 ---
 
 <header class="header">
-<h1 class="header-title">Nasheh Annafii</h1>
-<p class="header-subtitle">I'am Programmer</p>
+<h1 class="header-title">KSL Dragon</h1>
+<p class="header-subtitle">Universitas Darussalam Gontor</p>
 </header>
 <ul class="nav">
 <li class="px-2"><a class="link" href="/about">About</a></li>
-<li class="px-2"><a class="link" href="/skill">Skill</a></li>
+<li class="px-2"><a class="link" href="/membership">Membership</a></li>
 <li class="px-2"><a class="link" href="/contact">Contact</a></li>
 <li class="px-2"><a class="link" href="/social-media">Social Media</a></li>
+<li class="px-2"><a class="link" href="/alumni">Alumni</a></li>
 </ul>
 <hr class="hr">
 <main>
