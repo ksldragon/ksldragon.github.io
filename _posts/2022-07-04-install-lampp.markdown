@@ -1,7 +1,7 @@
 ---
 layout: post
 author: nashehannafii
-title: "Bismillah"
+title: "Install LAMPP"
 tags:
  -
 ---
