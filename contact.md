@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-* Email : nashehannafii@gmail.com
+* Email : ksl.dragon@unida.gontor.ac.id
