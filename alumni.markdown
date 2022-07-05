@@ -6,7 +6,7 @@ permalink: /alumni/
 
 ## 2014
 
-1. Imron Rosyadi [Github](https://link)
+1. Imron Rosyadi - [Github](https://link)
 
 ## 2015
 
@@ -18,14 +18,14 @@ permalink: /alumni/
 
 ## 2017
 
-1. Rino Bagus Wahyu Mahendra [Github](https://link)
+1. Rino Bagus Wahyu Mahendra - [Github](https://link)
 
 ## 2018
 
-1. Imam Fauzi Annur [Github](https://link)
+1. Imam Fauzi Annur - [Github](https://link)
 
 ## 2019
 
-1. Moch. Nasheh Annafii [Github](https://nashehannafii.github.io)
-2. Muhamad Taufiq Riza [Github](https://link)
-3. Wahid Alfaridsi Achmad Zein [Github](https://stunggal.github.io)
+1. Moch. Nasheh Annafii - [Github](https://nashehannafii.github.io)
+2. Muhamad Taufiq Riza - [Github](https://link)
+3. Wahid Alfaridsi Achmad Zein - [Github](https://stunggal.github.io)
