@@ -28,3 +28,4 @@ permalink: /alumni/
 
 1. Moch. Nasheh Annafii [Github](https://nashehannafii.github.io)
 2. Muhamad Taufiq Riza [Github](https://link)
+3. Wahid Alfaridsi Achmad Zein [Github](https://stunggal.github.io)
